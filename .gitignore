@@ -1,0 +1,16 @@
+# Binaries
+bin/
+
+# Visual Studio folder and files
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.props
+
+# Projects
+HW2/
+HW3/
+Dijkstra/
+Sandbox/
